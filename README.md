@@ -5,7 +5,32 @@
 
 [直通点](https://light-city.club/sc/)
 
+https://light-city.club/sc/
+
+
+### 关于作者
+
+个人公众号：guangcity
+
+![](./img/wechat.jpg)
+
+欢迎大家反馈及C++交流，本人在微信创建了C++那些事交流群，优质的C++资源交流区，期待大家关注上面公众号，点击公众号右下角->联系我，拉你入群。
+
 ---
+
+### 项目运行
+
+- **代码环境**
+
+  Ubuntu 18.04
+
+- **工具**
+
+  CLion  gcc/g++
+
+尽量用g++，因为一开始我用的vim写的，所以纯g++，后来用编译器CLion，部分有CMakeLists.txt文件，直接导入就行，后面会更新这个文件包含整个项目，持续关注~
+
+
 
 ### 0.项目概要
 
@@ -317,17 +342,7 @@ map<int, int> mp{
 
 - [C++ 中如何将 string 类型转换为 int 类型？](./extension/some_problem/string_int.md)
 
-### 11.代码运行
-
-- **代码环境**
-
-  Ubuntu 18.04
-
-- **工具**
-
-  CLion  gcc/g++
-
-### 12.贡献者
+### 11.贡献者
 
 <table>
   <tbody>
@@ -347,10 +362,4 @@ map<int, int> mp{
     </tr>
   </tbody>
 </table>
-
-### 13.关于作者
-
-个人公众号：guangcity
-
-![](./img/wechat.jpg)
 
