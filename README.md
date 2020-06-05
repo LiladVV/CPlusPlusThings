@@ -12,11 +12,13 @@ https://light-city.club/sc/
 
 个人公众号：guangcity
 
-![](./img/wechat.jpg)
+![](https://light-city.club/sc/assets/images/wechat.jpg)
 
 欢迎大家反馈及C++交流，本人在微信创建了C++那些事交流群，优质的C++资源交流区，期待大家关注上面公众号，点击公众号右下角->联系我，拉你入群。
 
 ---
+
+
 
 ### 项目运行
 
@@ -29,8 +31,6 @@ https://light-city.club/sc/
   CLion  gcc/g++
 
 尽量用g++，因为一开始我用的vim写的，所以纯g++，后来用编译器CLion，部分有CMakeLists.txt文件，直接导入就行，后面会更新这个文件包含整个项目，持续关注~
-
-
 
 ### 0.项目概要
 
@@ -358,6 +358,25 @@ map<int, int> mp{
           <img src="https://avatars1.githubusercontent.com/u/42088872?s=50&v=4" style="width: 50px;"><br>
           <sub>ChungZH</sub>
         </a><br>
+      </th>
+    </tr>
+  </tbody>
+</table>
+
+### 12.赞助我
+
+如果觉得不错，赞助我吧~
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center" style="height=200 width="200">
+          <img src="https://light-city.club/sc/assets/images/alipay.jpg" height="200" width="200" ><br>
+          支付宝
+      </th>
+      <th align="center" style="height=200 width="200">
+          <img src="https://light-city.club/sc/assets/images/wechat.png" height="200" width="200" ><br>
+          微信
       </th>
     </tr>
   </tbody>
